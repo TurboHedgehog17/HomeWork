@@ -12,6 +12,7 @@ namespace DZ
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Королёва 3-09ПС-1");
+            Console.WriteLine("Какие-то изменения");
             Console.ReadLine();
         }
     }
